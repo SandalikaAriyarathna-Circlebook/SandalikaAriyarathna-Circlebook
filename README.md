@@ -80,7 +80,6 @@
 
 <!-- <a href="https://github.com/SandalikaAriyarathna-Circlebook/github-readme-activity-graph"><img alt="SandalikaAriyarathna-Circlebook's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SandalikaAriyarathna-Circlebook&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
-![SandalikaAriyarathna-Circlebook's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandalikaAriyarathna-Circlebook&bg_color=fffff0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 [![SandalikaAriyarathna-Circlebook's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandalikaAriyarathna-Circlebook&theme=dracula)](https://github.com/SandalikaAriyarathna-Circlebook/github-readme-activity-graph)
 
