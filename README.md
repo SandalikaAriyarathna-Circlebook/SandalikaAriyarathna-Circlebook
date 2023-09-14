@@ -59,21 +59,21 @@
 </p>
 
 
-<br/>
-<br/>
-
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandalikaAriyarathna-Circlebook&theme=highcontrast&fire=DD2727" alt="SandalikaAriyarathna-Circlebook" />
-</p>
 
 <br/>
 <br/>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandalikaAriyarathna-Circlebook&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="SandalikaAriyarathna-Circlebook" />
-</p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SandalikaAriyarathna-Circlebook&theme=highcontrast&fire=DD2727" alt="SandalikaAriyarathna-Circlebook" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandalikaAriyarathna-Circlebook&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="SandalikaAriyarathna-Circlebook" /></p>
+<br/>
+<br/>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SandalikaAriyarathna-Circlebook&show_icons=true&locale=en&layout=compact&theme=react&border=true&bg_color=0D1117" alt="SandalikaAriyarathna-Circlebook" /></p>
+
+<br/>
+<br/>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SandalikaAriyarathna-Circlebook&show_icons=true&locale=en&theme=react&border=true&bg_color=0D1117" alt="SandalikaAriyarathna-Circlebook" /></p>
 
 <br/>
 <br/>
@@ -81,6 +81,8 @@
 <!-- <a href="https://github.com/SandalikaAriyarathna-Circlebook/github-readme-activity-graph"><img alt="SandalikaAriyarathna-Circlebook's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SandalikaAriyarathna-Circlebook&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 ![SandalikaAriyarathna-Circlebook's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SandalikaAriyarathna-Circlebook&bg_color=fffff0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+[![SandalikaAriyarathna-Circlebook's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SandalikaAriyarathna-Circlebook&theme=dracula)](https://github.com/SandalikaAriyarathna-Circlebook/github-readme-activity-graph)
 
 <br/>
 <br/>
