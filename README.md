@@ -16,9 +16,9 @@
 
 - 👀 I’m Passionate about Web Application Development
 
-- 🌱 I’m currently studying NextJS , Laravel.
+- 🌱 I’m currently studying NextJS, Laravel.
 
-- 💬 Ask me about **MERN Stack - ReactJS/ReactTS,ExpressJS,NodeJS, React Native, Angular TS, Java, Vue, Spring boot**
+- 💬 Ask me about **MERN Stack - React JS/TS, ExpressJS, NodeJS, Laravel, React Native, Angular TS, Java, Vue, Spring boot**
 
 - 📫 How to reach me **sandalika.a@circlebook.me**
 
